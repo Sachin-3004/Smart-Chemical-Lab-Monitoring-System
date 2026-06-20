@@ -35,3 +35,11 @@ An IoT-based safety monitoring system designed to detect gas leakage, monitor te
 
 ## Results
 The system successfully detected harmful gases, monitored temperature, and sensed light intensity in real time while providing alerts during unsafe conditions.
+
+## Circuit Diagram
+
+![Circuit Diagram](Circuit%20Diagram.png)
+
+## Working Model
+
+![Working Model](Working%20Model.png)
